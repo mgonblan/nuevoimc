@@ -1,0 +1,12 @@
+#page-home {
+  --theme-primary-color: #494a68;
+  background: var(--theme-primary-color);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#page-home [studio-id="home_Heading_9303"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+}
