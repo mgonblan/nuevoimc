@@ -1,0 +1,7 @@
+{
+  "name": "NuevoImc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
