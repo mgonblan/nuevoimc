@@ -333,4 +333,345 @@ Error
     at maybeClose (internal/child_process.js:1021:16)
     at Socket.<anonymous> (internal/child_process.js:430:11)
     at Socket.emit (events.js:203:13)
+    at Pipe.<anonymous> (net.js:588:12) Info | projectHandler | loadProjectDatabase | Thu Feb 03 2022, 10:20:38 GMT+0100 (hora estándar de Europa central) | Se están inicializando las bases de datos para el espacio de trabajo  /Users/mananas/Documents/Alumno/imcvalor/imc
+ Info | datasourceDB | init | Thu Feb 03 2022, 10:20:38 GMT+0100 (hora estándar de Europa central) | Se ha inicializado la base de datos del origen de datos
+ Info | dsActionsDB | init | Thu Feb 03 2022, 10:20:38 GMT+0100 (hora estándar de Europa central) | Se ha inicializado la base de datos de acciones del origen de datos
+ Info | dsAttributesDB | init | Thu Feb 03 2022, 10:20:38 GMT+0100 (hora estándar de Europa central) | Se ha inicializado la base de datos de atributos del origen de datos
+ Info | dsActionsMoreDB | init | Thu Feb 03 2022, 10:20:38 GMT+0100 (hora estándar de Europa central) | Se ha inicializado la base de datos de más de acciones del origen de datos
+ Info | appDB | init | Thu Feb 03 2022, 10:20:38 GMT+0100 (hora estándar de Europa central) | Base de datos de aplicación inicializada
+ Info | settingsDB | init | Thu Feb 03 2022, 10:20:38 GMT+0100 (hora estándar de Europa central) | SettingsDB inicializada
+Success | projectHandler | loadProjectDatabase | Thu Feb 03 2022, 10:20:38 GMT+0100 (hora estándar de Europa central) | Se han inicializado todas las bases de datos
+Success | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:20:42 GMT+0100 (hora estándar de Europa central) | La copia necesita los módulos de nodo
+Success | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:20:43 GMT+0100 (hora estándar de Europa central) | La copia necesita los plugins
+ Info | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:20:43 GMT+0100 (hora estándar de Europa central) | Ejecutando instalación de npm
+ Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:21:31 GMT+0100 (hora estándar de Europa central) | npm WARN deprecated source-map-url@0.4.1: See https://github.com/lydell/source-map-url#deprecated
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:21:32 GMT+0100 (hora estándar de Europa central) | npm
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:21:32 GMT+0100 (hora estándar de Europa central) |  WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:21:32 GMT+0100 (hora estándar de Europa central) | npm WARN deprecated har-validator@5.1.5: this library is no longer supported
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:21:32 GMT+0100 (hora estándar de Europa central) | npm WARN deprecated rollup-plugin-node-resolve@3.0.0: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-node-resolve.
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:21:32 GMT+0100 (hora estándar de Europa central) | npm WARN deprecated resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:21:32 GMT+0100 (hora estándar de Europa central) | npm 
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:21:32 GMT+0100 (hora estándar de Europa central) | WARN deprecated source-map-resolve@0.5.3: See https://github.com/lydell/source-map-resolve#deprecated
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:21:32 GMT+0100 (hora estándar de Europa central) | npm WARN deprecated browserslist@2.11.3: Browserslist 2 could fail on reading Browserslist >3.0 config used in other tools.
+npm WARN deprecated chokidar@1.7.0: Chokidar 2 will break on node v14+. Upgrade to chokidar 3 with 15x less dependencies.
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:21:32 GMT+0100 (hora estándar de Europa central) | npm WARN deprecated fsevents@1.2.13: fsevents 1 will break on node v14+ and could be using insecure binaries. Upgrade to fsevents 2.
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:21:32 GMT+0100 (hora estándar de Europa central) | npm WARN deprecated chokidar@2.1.8: Chokidar 2 does not receive security updates since 2019. Upgrade to chokidar 3 with 15x fewer dependencies
+npm WARN deprecated chokidar@2.1.8: Chokidar 2 does not receive security updates since 2019. Upgrade to chokidar 3 with 15x fewer dependencies
+npm WARN deprecated querystring@0.2.0: The querystring API is considered Legacy. new code should use the URLSearchParams API instead.
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:21:32 GMT+0100 (hora estándar de Europa central) | npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:21:32 GMT+0100 (hora estándar de Europa central) | npm WARN deprecated rollup-plugin-commonjs@8.2.6: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-commonjs.
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:21:32 GMT+0100 (hora estándar de Europa central) | npm
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:21:32 GMT+0100 (hora estándar de Europa central) |  WARN deprecated request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
+npm WARN deprecated sw-toolbox@3.6.0: Please migrate to Workbox: https://developers.google.com/web/tools/workbox/guides/migrations/migrate-from-sw
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:21:33 GMT+0100 (hora estándar de Europa central) | npm
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:21:33 GMT+0100 (hora estándar de Europa central) |  WARN deprecated uglify-es@3.2.2: support for ECMAScript is superseded by `uglify-js` as of v3.13.0
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:21:33 GMT+0100 (hora estándar de Europa central) | npm
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:21:33 GMT+0100 (hora estándar de Europa central) |  WARN deprecated @angular/http@5.2.11: Package no longer supported. Use @angular/common instead, see https://angular.io/guide/deprecations#angularhttp
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:21:33 GMT+0100 (hora estándar de Europa central) | npm
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:21:33 GMT+0100 (hora estándar de Europa central) |  WARN deprecated tar@2.2.2: This version of tar is no longer supported, and will not receive security updates. Please upgrade asap.
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:23:42 GMT+0100 (hora estándar de Europa central) | npm ERR! code 1
+npm ERR! path /Users/mananas/Documents/Alumno/imcvalor/imc/ionic/node_modules/node-sass
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:23:42 GMT+0100 (hora estándar de Europa central) | npm ERR! command failed
+npm ERR! command sh -c node scripts/build.js
+npm ERR! Building: /usr/local/bin/node /Users/mananas/Documents/Alumno/imcvalor/imc/ionic/node_modules/node-gyp/bin/node-gyp.js rebuild --verbose --libsass_ext= --libsass_cflags= --libsass_ldflags= --libsass_library=
+npm ERR!   c++ '-DNODE_GYP_MODULE_NAME=libsass' '-DUSING_UV_SHARED=1' '-DUSING_V8_SHARED=1' '-DV8_DEPRECATION_WARNINGS=1' '-DV8_DEPRECATION_WARNINGS' '-DV8_IMMINENT_DEPRECATION_WARNINGS' '-D_GLIBCXX_USE_CXX11_ABI=1' '-D_DARWIN_USE_64_BIT_INODE=1' '-D_LARGEFILE_SOURCE' '-D_FILE_OFFSET_BITS=64' '-DOPENSSL_NO_PINSHARED' '-DOPENSSL_THREADS' '-DLIBSASS_VERSION="3.5.5"' -I/Users/mananas/.node-gyp/16.13.2/include/node -I/Users/mananas/.node-gyp/16.13.2/src -I/Users/mananas/.node-gyp/16.13.2/deps/openssl/config -I/Users/mananas/.node-gyp/16.13.2/deps/openssl/openssl/include -I/Users/mananas/.node-gyp/16.13.2/deps/uv/include -I/Users/mananas/.node-gyp/16.13.2/deps/zlib -I/Users/mananas/.node-gyp/16.13.2/deps/v8/include -I../src/libsass/include  -O3 -gdwarf-2 -mmacosx-version-min=10.7 -arch x86_64 -Wall -Wendif-labels -W -Wno-unused-parameter -std=c++11 -stdlib=libc++ -fno-strict-aliasing -MMD -MF ./Release/.deps/Release/obj.target/libsass/src/libsass/src/ast.o.d.raw   -c -o Release/obj.target/libsass/src/libsass/src/ast.o ../src/libsass/src/ast.cpp
+npm ERR!   c++ '-DNODE_GYP_MODULE_NAME=libsass' '-DUSING_UV_SHARED=1' '-DUSING_V8_SHARED=1' '-DV8_DEPRECATION_WARNINGS=1' '-DV8_DEPRECATION_WARNINGS' '-DV8_IMMINENT_DEPRECATION_WARNINGS' '-D_GLIBCXX_USE_CXX11_ABI=1' '-D_DARWIN_USE_64_BIT_INODE=1' '-D_LARGEFILE_SOURCE' '-D_FILE_OFFSET_BITS=64' '-DOPENSSL_NO_PINSHARED' '-DOPENSSL_THREADS' '-DLIBSASS_VERSION="3.5.5"' -I/Users/mananas/.node-gyp/16.13.2/include/node -I/Users/mananas/.node-gyp/16.13.2/src -I/Users/mananas/.node-gyp/16.13.2/deps/openssl/config -I/Users/mananas/.node-gyp/16.13.2/deps/openssl/openssl/include -I/Users/mananas/.node-gyp/16.13.2/deps/uv/include -I/Users/mananas/.node-gyp/16.13.2/deps/zlib -I/Users/mananas/.node-gyp/16.13.2/deps/v8/include -I../src/libsass/include  -O3 -gdwarf-2 -mmacosx-version-min=10.7 -arch x86_64 -Wall -Wendif-labels -W -Wno-unused-parameter -std=c++11 -stdlib=libc++ -fno-strict-aliasing -MMD -MF ./Release/.deps/Release/obj.target/libsass/src/libsass/src/ast_fwd_decl.o.d.raw   -c -o Release/obj.target/libsass/src/libsass/src/ast_fwd_decl.o ../src/libsass/src/ast_fwd_decl.cpp
+npm ERR!   c++ '-DNODE_GYP_MODULE_NAME=libsass' '-DUSING_UV_SHARED=1' '-DUSING_V8_SHARED=1' '-DV8_DEPRECATION_WARNINGS=1' '-DV8_DEPRECATION_WARNINGS' '-DV8_IMMINENT_DEPRECATION_WARNINGS' '-D_GLIBCXX_USE_CXX11_ABI=1' '-D_DARWIN_USE_64_BIT_INODE=1' '-D_LARGEFILE_SOURCE' '-D_FILE_OFFSET_BITS=64' '-DOPENSSL_NO_PINSHARED' '-DOPENSSL_THREADS' '-DLIBSASS_VERSION="3.5.5"' -I/Users/mananas/.node-gyp/16.13.2/include/node -I/Users/mananas/.node-gyp/16.13.2/src -I/Users/mananas/.node-gyp/16.13.2/deps/openssl/config -I/Users/mananas/.node-gyp/16.13.2/deps/openssl/openssl/include -I/Users/mananas/.node-gyp/16.13.2/deps/uv/include -I/Users/mananas/.node-gyp/16.13.2/deps/zlib -I/Users/mananas/.node-gyp/16.13.2/deps/v8/include -I../src/libsass/include  -O3 -gdwarf-2 -mmacosx-version-min=10.7 -arch x86_64 -Wall -Wendif-labels -W -Wno-unused-parameter -std=c++11 -stdlib=libc++ -fno-strict-aliasing -MMD -MF ./Release/.deps/Release/obj.target/libsass/src/libsass/src/backtrace.o.d.raw   -c -o Release/obj.target/libsass/src/libsass/src/backtrace.o ../src/libsass/src/backtrace.cpp
+npm ERR!   c++ '-DNODE_GYP_MODULE_NAME=libsass' '-DUSING_UV_SHARED=1' '-DUSING_V8_SHARED=1' '-DV8_DEPRECATION_WARNINGS=1' '-DV8_DEPRECATION_WARNINGS' '-DV8_IMMINENT_DEPRECATION_WARNINGS' '-D_GLIBCXX_USE_CXX11_ABI=1' '-D_DARWIN_USE_64_BIT_INODE=1' '-D_LARGEFILE_SOURCE' '-D_FILE_OFFSET_BITS=64' '-DOPENSSL_NO_PINSHARED' '-DOPENSSL_THREADS' '-DLIBSASS_VERSION="3.5.5"' -I/Users/mananas/.node-gyp/16.13.2/include/node -I/Users/mananas/.node-gyp/16.13.2/src -I/Users/mananas/.node-gyp/16.13.2/deps/openssl/config -I/Users/mananas/.node-gyp/16.13.2/deps/openssl/openssl/include -I/Users/mananas/.node-gyp/16.13.2/deps/uv/include -I/Users/mananas/.node-gyp/16.13.2/deps/zlib -I/Users/mananas/.node-gyp/16.13.2/deps/v8/include -I../src/libsass/include  -O3 -gdwarf-2 -mmacosx-version-min=10.7 -arch x86_64 -Wall -Wendif-labels -W -Wno-unused-parameter -std=c++11 -stdlib=libc++ -fno-strict-aliasing -MMD -MF ./Release/.deps/Release/obj.target/libsass/src/libsass/src/base64vlq.o.d.raw   -c -o Release/obj.target/libsass/src/libsass/src/base64vlq.o ../src/libsass/src/base64vlq.cpp
+npm ERR!   c++ '-DNODE_GYP_MODULE_NAME=libsass' '-DUSING_UV_SHARED=1' '-DUSING_V8_SHARED=1' '-DV8_DEPRECATION_WARNINGS=1' '-DV8_DEPRECATION_WARNINGS' '-DV8_IMMINENT_DEPRECATION_WARNINGS' '-D_GLIBCXX_USE_CXX11_ABI=1' '-D_DARWIN_USE_64_BIT_INODE=1' '-D_LARGEFILE_SOURCE' '-D_FILE_OFFSET_BITS=64' '-DOPENSSL_NO_PINSHARED' '-DOPENSSL_THREADS' '-DLIBSASS_VERSION="3.5.5"' -I/Users/mananas/.node-gyp/16.13.2/include/node -I/Users/mananas/.node-gyp/16.13.2/src -I/Users/mananas/.node-gyp/16.13.2/deps/openssl/config -I/Users/mananas/.node-gyp/16.13.2/deps/openssl/openssl/include -I/Users/mananas/.node-gyp/16.13.2/deps/uv/include -I/Users/mananas/.node-gyp/16.13.2/deps/zlib -I/Users/mananas/.node-gyp/16.13.2/deps/v8/include -I../src/libsass/include  -O3 -gdwarf-2 -mmacosx-version-min=10.7 -arch x86_64 -Wall -Wendif-labels -W -Wno-unused-parameter -std=c++11 -stdlib=libc++ -fno-strict-aliasing -MMD -MF ./Release/.deps/Release/obj.target/libsass/src/libsass/src/bind.o.d.raw   -c -o Release/obj.target/libsass/src/libsass/src/bind.o ../src/libsass/src/bind.cpp
+npm ERR!   cc '-DNODE_GYP_MODULE_NAME=libsass' '-DUSING_UV_SHARED=1' '-DUSING_V8_SHARED=1' '-DV8_DEPRECATION_WARNINGS=1' '-DV8_DEPRECATION_WARNINGS' '-DV8_IMMINENT_DEPRECATION_WARNINGS' '-D_GLIBCXX_USE_CXX11_ABI=1' '-D_DARWIN_USE_64_BIT_INODE=1' '-D_LARGEFILE_SOURCE' '-D_FILE_OFFSET_BITS=64' '-DOPENSSL_NO_PINSHARED' '-DOPENSSL_THREADS' '-DLIBSASS_VERSION="3.5.5"' -I/Users/mananas/.node-gyp/16.13.2/include/node -I/Users/mananas/.node-gyp/16.13.2/src -I/Users/mananas/.node-gyp/16.13.2/deps/openssl/config -I/Users/mananas/.node-gyp/16.13.2/deps/openssl/openssl/include -I/Users/mananas/.node-gyp/16.13.2/deps/uv/include -I/Users/mananas/.node-gyp/16.13.2/deps/zlib -I/Users/mananas/.node-gyp/16.13.2/deps/v8/include -I../src/libsass/include  -O3 -gdwarf-2 -mmacosx-version-min=10.7 -arch x86_64 -Wall -Wendif-labels -W -Wno-unused-parameter -fno-strict-aliasing -MMD -MF ./Release/.deps/Release/obj.target/libsass/src/libsass/src/cencode.o.d.raw   -c -o Release/obj.target/libsass/src/libsass/src/cencode.o ../src/libsass/src/cencode.c
+npm ERR!   c++ '-DNODE_GYP_MODULE_NAME=libsass' '-DUSING_UV_SHARED=1' '-DUSING_V8_SHARED=1' '-DV8_DEPRECATION_WARNINGS=1' '-DV8_DEPRECATION_WARNINGS' '-DV8_IMMINENT_DEPRECATION_WARNINGS' '-D_GLIBCXX_USE_CXX11_ABI=1' '-D_DARWIN_USE_64_BIT_INODE=1' '-D_LARGEFILE_SOURCE' '-D_FILE_OFFSET_BITS=64' '-DOPENSSL_NO_PINSHARED' '-DOPENSSL_THREADS' '-DLIBSASS_VERSION="3.5.5"' -I/Users/mananas/.node-gyp/16.13.2/include/node -I/Users/mananas/.node-gyp/16.13.2/src -I/Users/mananas/.node-gyp/16.13.2/deps/openssl/config -I/Users/mananas/.node-gyp/16.13.2/deps/openssl/openssl/include -I/Users/mananas/.node-gyp/16.13.2/deps/uv/include -I/Users/mananas/.node-gyp/16.13.2/deps/zlib -I/Users/mananas/.node-gyp/16.13.2/deps/v8/include -I../src/libsass/include  -O3 -gdwarf-2 -mmacosx-version-min=10.7 -arch x86_64 -Wall -Wendif-labels -W -Wno-unused-parameter -std=c++11 -stdlib=libc++ -fno-strict-aliasing -MMD -MF ./Release/.deps/Release/obj.target/libsass/src/libsass/src/check_nesting.o.d.raw   -c -o Release/obj.target/libsass/src/libsass/src/check_nesting.o ../src/libsass/src/check_nesting.cpp
+npm ERR!
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:19972)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:23:43 GMT+0100 (hora estándar de Europa central) | ✔ Creating ./www directory for you in 499.81μp
+
+ Info | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:23:43 GMT+0100 (hora estándar de Europa central) | 
+
+ Info | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:23:43 GMT+0100 (hora estándar de Europa central) | --no-confirm: Are you sure you want to continue? No
+
+ Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:23:43 GMT+0100 (hora estándar de Europa central) | [[40mWARN[49m] About to add the browser platform to your app.
+       
+       The browser Cordova platform is not recommended for production use.
+       
+       Instead, we recommend using platform detection and browser APIs to target web/PWA. See the Cross Platform docs[1] for details.
+       
+       Alternatively, ⚡️ Capacitor ⚡️ (https://ion.link/capacitor), Ionic's official native runtime, fully supports traditional web and Progressive Web Apps. See the Capacitor docs[2] to learn how easy it is to migrate.
+       
+       [1]: https://ion.link/cross-platform-docs
+       [2]: https://ion.link/capacitor-cordova-migration-docs
+       
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:20856)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:23:43 GMT+0100 (hora estándar de Europa central) | Intentando instalar el plugin de analíticas de comentarios de la aplicación
+ Info | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:23:44 GMT+0100 (hora estándar de Europa central) | > cordova plugin add cordova-plugin-mfp-analytics
+
+ Info | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:23:44 GMT+0100 (hora estándar de Europa central) | node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module '/usr/local/Cellar/node/17.4.0/pnpm-global/5/node_modules/cordova/bin/cordova'
+
+ Info | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:23:44 GMT+0100 (hora estándar de Europa central) |     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+ Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:23:44 GMT+0100 (hora estándar de Europa central) | [[40mERROR[49m] An error occurred while running subprocess cordova.
+        
+        cordova plugin add cordova-plugin-mfp-analytics exited with exit code 1.
+        
+        Re-running this command with the --verbose flag may provide more information.
+
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at Socket.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:21658)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | LandingPage | buildProjectIfNeeded | Thu Feb 03 2022, 10:23:44 GMT+0100 (hora estándar de Europa central) | No se ha podido instalar el plugin de analíticas de comentarios de la aplicación
+Error
+    at file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160529
+    at f (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:159855)
+    at Object.error (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:6391:160411)
+    at ChildProcess.<anonymous> (file:///Applications/IBM%20Digital%20App%20Builder.app/Contents/Resources/app.asar/dist/renderer.prod.js:377:21724)
+    at ChildProcess.emit (events.js:208:15)
+    at maybeClose (internal/child_process.js:1021:16)
+    at Socket.<anonymous> (internal/child_process.js:430:11)
+    at Socket.emit (events.js:203:13)
     at Pipe.<anonymous> (net.js:588:12)
